@@ -1,0 +1,8 @@
+<!--pages/view/view.wxml-->
+<view class="bgView">
+  1
+</view>
+
+<view class="bgView">
+  2
+</view>
