@@ -1,0 +1,36 @@
+<!--pages/view/view.wxml-->
+
+<scroll-view scroll-y="true" style="heigth:200px;"
+ bindscrolltoupper="upper"
+  bindscrolltolower="lower"
+   bindscroll="scroll"
+   scroll-into-view="red"
+     scroll-top="50">
+  <view class="bgViewBlue" id="blue">
+    1
+  </view>
+
+  <view class="bgViewRed" id="red">
+    2
+  </view>
+
+  <view class="bgViewYellow" id="yellow">
+    3
+  </view>
+
+  <view class="bgViewYellow" id="yellow">
+    3
+  </view>
+
+  <view class="bgViewYellow" id="yellow">
+    3
+  </view>
+
+  <view class="bgViewYellow" id="yellow">
+    3
+  </view>
+
+  <view class="bgViewYellow" id="yellow">
+    3
+  </view>
+</scroll-view>
